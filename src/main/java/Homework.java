@@ -1,6 +1,6 @@
 public class Homework {
     public static void main(String[] args) {
-        // Пример вызова метода с n = 15
+        // Пример вызова метода с n = 16
         printFizzBuzz(16);
     }
 
